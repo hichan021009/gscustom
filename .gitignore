@@ -1,0 +1,28 @@
+# 依存関係
+node_modules
+
+# ビルド成果物
+build
+dist
+
+# ログ
+*.log
+npm-debug.log*
+
+# 環境変数
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Firebase
+.firebase
