@@ -21,7 +21,7 @@ const specifications = [
   {
     category: "電源・エネルギー",
     specs: [
-      { icon: Battery, label: "リチウムイオンバッテリー", value: "400Ah" },
+      { icon: Battery, label: "リチウムイオンバッテリー", value: "800Ah" },
       { icon: Zap, label: "インバーター", value: "3000W" },
       { icon: Sun, label: "ソーラーパネル", value: "400W" },
       { icon: Zap, label: "AC100Vコンセント", value: "標準装備" },
